@@ -42,6 +42,16 @@
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
       allowLocationSimulation = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "D68510C52D3E1F5E00646C93"
+            BuildableName = "SampleProject_Demo.app"
+            BlueprintName = "SampleProject_Demo"
+            ReferencedContainer = "container:SampleProject_Demo.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
    </LaunchAction>
    <ProfileAction
       buildConfiguration = "Release"
@@ -49,6 +59,15 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "D68510C52D3E1F5E00646C93"
+            BuildableName = "SampleProject_Demo.app"
+            BlueprintName = "SampleProject_Demo"
+            ReferencedContainer = "container:SampleProject_Demo.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">

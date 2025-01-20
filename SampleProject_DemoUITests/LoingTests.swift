@@ -41,7 +41,11 @@ final class LoingTests: XCTestCase {
         let login = app.buttons["LoginButton"]
         XCTAssertTrue(login.exists)
     }
-
+    
+    func test_loginBtnValidationTrue() {
+        let login = app.buttons["LoginButton"]
+        XCTAssertTrue(login.exists)
+    }
     
     
 }
